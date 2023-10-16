@@ -20,6 +20,7 @@ This project aims to ...
 git clone https://github.com/yourusername/yourprojectname.git
 cd yourprojectname
 npm install
+```
 
 ## Bread Baking
 Here goes the example user input....
